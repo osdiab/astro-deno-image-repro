@@ -1,5 +1,18 @@
 # Welcome to [Astro](https://astro.build)
 
+Simply did this to make it:
+
+- `npm create astro@latest`
+- `yarn`
+- `yarn astro add deno`
+- `yarn astro add image`
+
+Then trigger the error by running
+
+`yarn build`
+
+# original readme
+
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
